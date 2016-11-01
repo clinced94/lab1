@@ -3,5 +3,5 @@ Lab 1 for distributed systems
 
 Written in node.js
 
-David Clince
-1331 9802
+<h2>David Clince</h2>
+<h2>1331 9802</h2>
